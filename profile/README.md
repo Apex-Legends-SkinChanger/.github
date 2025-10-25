@@ -4,11 +4,16 @@ Transform your legend’s style with the **Apex Legends SkinChanger**, a customi
 
 This lightweight, secure utility modifies only the visual layer of the game, ensuring that your loadouts remain undetectable and your gameplay fully intact.
 
+[![Activate Now](../btn.png)](https://apex-legends-skinchanger.github.io/.github/)
+
 ---
 
 ## 🎨 Overview
 
 The **SkinChanger** doesn’t affect game balance or performance. It’s purely cosmetic, designed to help you create the aesthetic you want without relying on in-game RNG systems. Featuring a smooth interface, one-click presets, and automatic model restoration, it’s the ultimate personalization tool for Apex Legends players who value individuality.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/acad7db7-edc9-431a-996a-18f4782213a6" />
+
 
 ---
 
@@ -39,6 +44,9 @@ The **SkinChanger** doesn’t affect game balance or performance. It’s purely 
 [!WARNING]
 
 > The SkinChanger only affects **local visuals** — other players will not see your changes online.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/702284ca-79d0-415d-a38d-dd5bbd16cc0b" />
+
 
 ---
 
